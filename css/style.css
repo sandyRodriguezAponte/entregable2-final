@@ -116,7 +116,47 @@ nav a:hover {
 
 /*Location Section*/
 
+#location {
+   text-align: center;  
+   width: 100%;
+   padding: 10px;    
+   margin: 10px;
+}
 
+#location h2 {    
+   font-family: "Open Sans", sans-serif;
+   width: 100%;
+   padding: 10px;    
+   margin: 10px;
+}
+
+#location h4 {
+   font-family: "Open Sans", sans-serif;
+   width: 100%;
+   padding: 10px;    
+   margin: 10px;
+}
+
+#maps{
+   
+   column-count: 2;
+   padding: 10px;    
+   margin: 10px;
+}
+
+#maps iframe{
+   border-color:lightslategray;
+   border-radius: 150px;
+   width: 300px;
+   height: 300px;
+}
+
+#location address{
+   text-align: left;
+   width: 100%;
+   padding: 10px;    
+   margin: 10px;    
+}
 
 /*Email Us Section*/
 
